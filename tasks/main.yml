@@ -1,0 +1,8 @@
+---
+# tasks file for ANSSI-RECOM
+- name: "Update repositories"
+  become: true
+  yum:
+    name: '*'
+    state: latest
+    update_cache: true
