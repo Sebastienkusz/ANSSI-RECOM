@@ -1,4 +1,4 @@
 ---
 
 - name: Include task list in play
-  include_tasks: minimal.yaml
+  include_tasks: minimal.yml
