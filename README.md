@@ -1,7 +1,7 @@
 Role Name
 =========
 
-this role resolves the vulnerabilities described in the ANSSI profile
+this role resolves the vulnerabilities described in the ANSSI profile for a RedHat 8.8 VM.
 
 level: minimal or intermediary
 
